@@ -40,7 +40,7 @@ How many records are in the dataset?
 
 - 4704
 - 8704
-- ✅ 9704 (correct)
+- ✅ 9704
 - 17704
 
 ## Q3. Fuel types
@@ -48,7 +48,7 @@ How many records are in the dataset?
 How many fuel types are presented in the dataset?
 
 - 1
-- ✅ 2 (correct)
+- ✅ 2
 - 3
 - 4
 
@@ -60,14 +60,14 @@ How many columns in the dataset have missing values?
 - 1
 - 2
 - 3
-- ✅ 4 (correct)
+- ✅ 4
 
 ## Q5. Max fuel efficiency
 
 What's the maximum fuel efficiency of cars from Asia?
 
 - 13.75
-- ✅ 23.75 (correct)
+- ✅ 23.75
 - 33.75
 - 43.75
 
@@ -82,7 +82,7 @@ Computed value: `23.7591`, which rounds to `23.75`.
 
 Has it changed?
 
-- ✅ Yes, it increased (correct)
+- ✅ Yes, it increased
 - Yes, it decreased
 - No
 
@@ -103,7 +103,7 @@ Median changed from `149.0` to `152.0` after filling missing values with the mod
 > **Note**: You just implemented linear regression. We'll talk about it in the next lesson.
 
 - 0.051
-- ✅ 0.51 (correct)
+- ✅ 0.51
 - 5.1
 - 51
 
